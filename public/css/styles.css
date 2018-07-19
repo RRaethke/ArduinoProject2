@@ -1,0 +1,64 @@
+/* * {
+  outline: 1px solid red;
+} */
+
+html {
+  background-image: url("../images/smarthomebackground.jpg");
+  background-repeat:  repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+h3 {
+  margin-top: 0;
+}
+.card {
+  min-height: 320px;
+  padding: 10px 25px;
+}
+
+.my-opacity {
+  opacity: 0.85;
+}
+
+.ac-heat {
+  padding: 20px 20px;
+}
+
+.card {
+  opacity: 0.85;
+}
+
+.ac-heat {
+  font-weight: bold;
+}
+
+select {
+  display: block;
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(137, 250, 250);
+  color: rgb(15, 15, 15);
+  border-radius: 4px;
+  border: 2px solid black;
+  width: 120px;
+  margin: 0 auto;
+}
+
+#tempStatus {
+  font-weight: bold;
+  font-size: 16px;
+  color: blue;
+}
+
+.switchBtn {
+  padding: 5px 25px;
+  border: 1px solid black;
+  background-color: rgb(100, 241, 121);
+}
+
+.header {
+  background-color: rgb(41, 178, 169);
+  font-weight: bold;
+  margin-top: 0;
+}
